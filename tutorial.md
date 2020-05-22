@@ -26,6 +26,7 @@ There are also 4 unique event types, which you can encounter regardless of locat
 * athyola
 * gozu
 * atorasu
+
 `options=` - This is the number of options, stored as a string and thus encapsulated in quotes.  Supports up to three options right now.  (As an example, use `"1"`, `"2"`, or `"3"`)
 `big=` - This optional field allows you to choose if the event is shown with full screen art or not.  Set this to `"1"` to use.
 `image=` - The file path to the image file you're using.  (An example from the modding folder: `image="other art\public_computer_sleep.png"`).  If you instead set `""` as the option, it will select a generic image based off where the event is encountered.
