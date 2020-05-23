@@ -1,0 +1,18 @@
+[event]
+name="BROADCAST SIGNAL INTRUSION"
+location="apartment"
+author="S. Waldie"
+contact="github.com/swaldie"
+flavor="Late in the evening, you decide to unwind with a little TV. The newscaster drones on with story after story about the economy. You feel your eyelids getting heavy..."
+options="1"
+about="Your love is fading"
+image=""
+
+optiona="Fall asleep"
+testa="story"
+successa="When you awake, the screen is filled with mysterious images and a man in a mask talking nonsense about the end of the world. You know it's not the news anymore, but the feeling in your stomach doesn't change: humanity is doomed."
+winprizea="doom"
+winnumbera="2"
+failurea=""
+failprizea=""
+failnumbera=""
